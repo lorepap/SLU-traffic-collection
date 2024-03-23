@@ -1,11 +1,8 @@
 # SLU-traffic-collection
 A group project for the class CS4930-51: Advanced Computer Networks. The project consists in the design, implementation and deployment of a network collection server to collect SLU Campus traffic.
 
-# System Architecture
+## 1. System Architecture
 ![Screenshot 2024-03-23 at 5 42 32 PM](https://github.com/lorepap/SLU-traffic-collection/assets/56161227/0a0d1c49-af8f-4499-9cdd-8c6794d680c5)
-
-## 1. Architecture
-![Architecture](./architecture/slunet.drawio.png)
 
 ## 2. Measurement Machine Logic
 Using [PMACCT](http://www.pmacct.net/), a multi-purpose passive network monitory tool, we aimed to measure SLU's network traffic by configuring the following configuration files:
